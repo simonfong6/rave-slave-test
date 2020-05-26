@@ -1,10 +1,16 @@
 import React from 'react';
 import './Question.css';
 
-function Question() {
+function Question(props) {
+  const {question} = props;
+
   return (
     <div>
-      Question
+      <input
+        className="question"
+        type="checkbox"
+      />
+      {question}
     </div>
   );
 }
