@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rave-slave-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rave-slave-test/static/js/main.e7b4981d.chunk.js",
+    "main.js.map": "/rave-slave-test/static/js/main.e7b4981d.chunk.js.map",
+    "runtime-main.js": "/rave-slave-test/static/js/runtime-main.b58209e2.js",
+    "runtime-main.js.map": "/rave-slave-test/static/js/runtime-main.b58209e2.js.map",
+    "static/js/2.2c04b97a.chunk.js": "/rave-slave-test/static/js/2.2c04b97a.chunk.js",
+    "static/js/2.2c04b97a.chunk.js.map": "/rave-slave-test/static/js/2.2c04b97a.chunk.js.map",
+    "index.html": "/rave-slave-test/index.html",
+    "precache-manifest.e39fbaddde00d0619c08f6387486aed4.js": "/rave-slave-test/precache-manifest.e39fbaddde00d0619c08f6387486aed4.js",
+    "service-worker.js": "/rave-slave-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rave-slave-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2c04b97a.chunk.js.LICENSE.txt": "/rave-slave-test/static/js/2.2c04b97a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rave-slave-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58209e2.js",
+    "static/js/2.2c04b97a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e7b4981d.chunk.js"
+  ]
+}
